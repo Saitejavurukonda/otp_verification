@@ -74,4 +74,4 @@ except Exception as e:
 print("[DEBUG] Starting GUI...")
 
 # ✅ Start GUI
-root.mainloop() update and give ,me code
+root.mainloop() 
